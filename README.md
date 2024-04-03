@@ -7,6 +7,7 @@ This repository contains the source code for a data acquisition system developed
 
 ## Acknowledgments
 The work was supported by the European Union’s Horizon Europe Re-search and Innovation Program (Project Converge—Telecommunications and Computer Vision Convergence Tools for Research Infrastructures) under Grant 101094831.
+
 More information regarding this project can be found [here](converge-project.eu)
 
 ## License
