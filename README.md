@@ -11,7 +11,7 @@ The work was supported by the European Union’s Horizon Europe Re-search and In
 More information regarding this project can be found [here](https://converge-project.eu/).
 
 ## Authors
-| Description | Test Text     |
+| Name | Email     |
 |    :----:   |    :----:     |
 |Mariana Oliveira | mariana.s.fonseca@inesctec.pt|
 |Francisco Ribeiro | francisco.m.ribeiro@inesctec.pt |
