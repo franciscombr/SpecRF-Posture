@@ -10,5 +10,14 @@ The work was supported by the European Union’s Horizon Europe Re-search and In
 
 More information regarding this project can be found [here](https://converge-project.eu/).
 
+## Authors
+| Description | Test Text     |
+|    :----:   |    :----:     |
+|Mariana Oliveira | mariana.s.fonseca@inesctec.pt|
+|Francisco Ribeiro | francisco.m.ribeiro@inesctec.pt |
+|Nuno Paulino | nuno.m.paulino@inesctec.pt |
+|Okan Yurduseven | okan.yurduseven@qub.ac.uk |
+|Luís Pessoa | luis.m.pessoa@inesctec.pt|
+
 ## License
 This work is made available under a Creative Commons Attribution-NonCommercial 4.0 International License. You can view additional details on [this page](https://creativecommons.org/licenses/by-nc/4.0/).
